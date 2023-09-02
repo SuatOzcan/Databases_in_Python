@@ -1,0 +1,1 @@
+[{"name": "a", "author": "a", "read": "Yes"}, {"name": "s", "author": "s", "read": "No"}, {"name": "d", "author": "d", "read": true}, {"name": "r", "author": "r", "read": false}]
